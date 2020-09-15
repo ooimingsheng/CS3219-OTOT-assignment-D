@@ -1,0 +1,14 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "skipLibCheck": true,
+        "target": "esnext",
+        "moduleResolution": "node",
+        "declaration": true,
+        "pretty": true,
+        "removeComments": false,
+        "sourceMap": true
+    },
+    "exclude": ["node_modules"]
+}
